@@ -1,4 +1,4 @@
-# Tests
+# Tests 🔥
 for Git and Github training and Readme pratice
 
 <!DOCTYPE html>
